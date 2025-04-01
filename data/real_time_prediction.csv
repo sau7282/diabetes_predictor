@@ -1,0 +1,5 @@
+Pregnancies,Glucose,BloodPressure,SkinThickness,Insulin,BMI,Diabetespedigreefunction,age,Prediction
+6,148,72,35,0,33.6,0.627,50,1
+6,148,72,35,0,33.6,0.627,70,1
+6,14,72,35,0,33.6,0.627,70,0
+6,1400,72,35,0,33.6,0.627,70,1
